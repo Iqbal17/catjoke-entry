@@ -6,7 +6,7 @@
 
 One joke about cats, one line, for make.fun's "The One-Line Cat Joke That Lands" bounty.
 
-> "I taught my cat to fetch. She brings the toy back, drops it just out of reach, and waits for the tip."
+> "I taught my cat to fetch. She brings the toy back, drops it just out of reach, and expects a tip."
 
 ## Run it
 

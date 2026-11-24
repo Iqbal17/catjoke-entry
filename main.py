@@ -58,21 +58,51 @@ F. "I taught my cat to fetch. She brings the toy back, drops it just out of
      (hobby); F is more likely to get the laugh-out-loud read the brief
      rewards first.
 
-FINAL ENTRY (101 characters):
-"I taught my cat to fetch. She brings the toy back, drops it just out of
-reach, and waits for the tip."
+DECISION RECORD — REVISION PASS (kit check asked for a genuine revision;
+three alternative revisions of F weighed):
 
-Hand count, two ways: per segment — "I taught my cat to fetch." = 25,
-" She brings the toy back," = 25 (total 50), " drops it just out of reach,"
-= 28 (total 78), " and waits for the tip." = 23 (total 101). Cross-check:
-80 non-space characters + 21 spaces = 101.
+R1. "I taught my cat to fetch. She brings the toy, drops it out of reach,
+    and waits for the tip." (91 chars) — REJECTED.
+    - For: ten characters tighter; same skeleton, same punch word.
+    - Against: cutting "just" and "back" guts the joke's core image — the
+      toy dropped JUST out of reach is the tease, and "brings the toy back"
+      is the return trip the whole gag depends on. Shorter but weaker.
+
+R2. "I taught my cat to fetch. She brings the toy back, drops it just out
+    of reach, and holds out a paw for the tip." (111 chars) — REJECTED.
+    - For: "holds out a paw" is a vivid, very cat-specific gesture; a second
+      visual beat before the punch.
+    - Against: ten characters longer and the extra beat delays the punch —
+      the line's snap is its virtue, and "tip" now arrives after a longer
+      clause. The paw image is charming but it is a detour, not a payoff.
+
+R3. "I taught my cat to fetch. She brings the toy back, drops it just out
+    of reach, and expects a tip." (97 chars) — CHOSEN.
+    - One word changes, and it is the right word: "expects" carries the
+      cat's entitlement in a single verb where "waits for" only described
+      patience. A cat does not wait for a tip — she expects one, as a matter
+      of course, and the demand is funnier than the waiting. The punch still
+      lands on "tip" as the last word, the teasing "just out of reach"
+      survives intact, and the line gets four characters tighter. Same setup,
+      same turn, sharper verb, better joke.
+
+FINAL ENTRY (97 characters):
+"I taught my cat to fetch. She brings the toy back, drops it just out of
+reach, and expects a tip."
+
+Hand count, two ways: word by word — "I" 1, " taught" 7 (8), " my" 3 (11),
+" cat" 4 (15), " to" 3 (18), " fetch." 7 (25), " She" 4 (29), " brings" 7
+(36), " the" 4 (40), " toy" 4 (44), " back," 6 (50), " drops" 6 (56),
+" it" 3 (59), " just" 5 (64), " out" 4 (68), " of" 3 (71), " reach," 7
+(78), " and" 4 (82), " expects" 8 (90), " a" 2 (92), " tip." 5 (97).
+Cross-check: 77 non-space characters + 20 spaces = 97.
 """
 
 import os
 
 ENTRY = (
     "I taught my cat to fetch. She brings the toy back, "
-    "drops it just out of reach, and waits for the tip."
+    "drops it just out of reach, and expects a tip."
 )
 
 
